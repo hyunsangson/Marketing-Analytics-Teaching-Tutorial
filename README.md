@@ -1,2 +1,2 @@
 # Marketing-Analytics-Tutorial
-## This is a example code for the topic modeling
+This is an example code for the Topic Modeling
