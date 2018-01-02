@@ -2,6 +2,8 @@
 ### This is an exampler code for the Basic topic modeling
 ##########################################################
 
+### I obtained small amount of actual review of coffee shop named "Thinking Cup" in Boston and did an preliminary topic modeling 
+
 ### set working directory.
 ### My machine is Window base, directory path for Mac would be differ
 setwd("C:/Users/Hyunsang Son/Dropbox/Working paper/eWOM review valence and cosumption type/yelp example")
